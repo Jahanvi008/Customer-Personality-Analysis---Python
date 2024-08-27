@@ -36,8 +36,6 @@ Matplotlib: For creating static, animated, and interactive visualizations in Pyt
 Seaborn: For statistical data visualization, built on top of Matplotlib.
 Scikit-learn: For machine learning algorithms, including preprocessing (Label Encoding, Standard Scaler), dimensionality reduction (PCA), and clustering (K-Means, Agglomerative Clustering).
 Yellowbrick: For visualizing the performance of machine learning models, particularly useful for the Elbow Method in K-Means clustering.
-Installation
-To run this project, ensure you have Python installed, along with the following libraries:
 
 ## Results and Insights
 After running the analysis, the resulting visualizations and clustering outputs will provide insights into customer segments, enabling businesses to tailor their marketing strategies effectively.
